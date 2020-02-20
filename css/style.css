@@ -8,15 +8,14 @@ div {
     text-align: left;
     color: grey;
   }
+  
   .center {
     text-align: center;
     border: 3px solid green;
   }
-  span.a {
-    display: inline; 
-    padding: 5px;
-    border: 1px solid blue;
-    background-color: yellow;
-  }
+  
+  h2{
+	font-family: roboto;
+}
 
   
