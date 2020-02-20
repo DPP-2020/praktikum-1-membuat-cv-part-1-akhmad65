@@ -6,7 +6,7 @@ div {
   }
   h3 {
     text-align: left;
-    color: grey;
+    color: #3399ff;
   }
   
   .center {
@@ -15,7 +15,10 @@ div {
   }
   
   h2{
-	font-family: roboto;
+    font-family: roboto;
+    color: #ff3300;
+}
+h2.double {border-style: double;
 }
 
   
