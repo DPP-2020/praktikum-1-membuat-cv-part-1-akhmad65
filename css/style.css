@@ -16,9 +16,9 @@ div {
   
   h2{
     font-family: roboto;
-    color: #ff3300;
+    color: #ff00bf;
 }
-h2.double {border-style: double;
+h2.dotted {border-style: dotted;
 }
 
   
